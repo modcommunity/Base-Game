@@ -60,4 +60,4 @@ We haven't found any projects that have fully accomplished the above. Community 
 If there are other projects with the same goals and missions as us, we'd love to collaborate as long as everybody is on the same page! Please feel free to join our Discord [server](https://discord.moddingcommunity.com/) or [email](mailto://modcommunity.business@gmail.com) us!
 
 ## Primary Contributors
-* [Christian Deacon](https://github.com/)
+* [Christian Deacon](https://github.com/gamemann)
