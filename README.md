@@ -2,8 +2,14 @@ This is our first **fully open-source** game that will display the power of open
 
 This game will act as a base for many mods, game modes, and more. This is the reason the game doesn't have any particular name. However, if anything, it's going to be a true "sandbox" game.
 
+## Road Map
+*To Be Continued...*
+
+## Contributing
+We are looking for help from the open-source community! Please view our road map and join our Discord [server](https://discord.moddingcommunity.com/) if you have any questions or want to chat with the community!
+
 ## Our Mission
-The goal of this game is to allow users to easily create mods and game servers using future open-source modding tools such as the following that integrate into [Godot Engine](http://godotengine.org/). With the power of open-source, mod creators and server owners will have **full control** over their mods, game modes, and server configuration.
+The goals of this game and others we help with are to allow users to easily create mods and game servers using future open-source modding tools such as the following that integrate into the [Godot Engine](http://godotengine.org/). With the power of open-source, mod creators and server owners will have **full control** over their mods, game modes, and server configurations.
 
 * Mapping Tool - For creating maps.
 * Model Tool - For creating 3D models.
@@ -17,9 +23,9 @@ The modding tools will essentially be a higher-level version of the [Godot Engin
 **Note** - We will also support conversions from already popular tools such as Blender. In fact, Godot likely already supports this.
 
 ## Truly Cross-Platform
-This game will be **truly cross-platform**! You will be able to play **online**, with anybody regardless of platform, using following!
+This game *and other games we help with* will be **truly cross-platform**! You will be able to play **online**, with anybody regardless of platform, using the following!
 
-* Web browsers - HTML 5.
+* Web browsers - HTML 5 (Chrome, Firefox, Edge, etc.).
 * Desktop applicationa - Windows, Linux, MacOS, etc.
 * Mobile applications - Android, iOS, etc.
 * Consoles - Xbox, Playstation, etc.
@@ -33,5 +39,17 @@ We are currently working on a mod marketplace and global discovery browsers for 
 
 Our goal in the future is to allow users to easily install mods for their game's client or server with one click of a button via a launcher tool that supports both clients and servers. Our marketplace will act as a **workshop** for any mod or game mode. With that said, our server and community browser provides its owners with some useful functionality and also supports loading into game servers through the web browser via HTML 5 games.
 
-If you combine everything we've said above, you have a [website](https://moddingcommunity.com/) where users will be able to easily connect to modded game servers running essentially their own **game modes**!
+If you combine everything we've said above, you have a [website](https://moddingcommunity.com/) where users will be able to easily connect to modded game servers running essentially their own **game modes**! With that said, we have a forum where users will be able to post guides, tutorials, ask for help, and more! We will be maintaining modding tools that allow users to easily create content for their mods, game modes, or game servers!
 
+We will also be displaying how powerful multiplayer and game servers are with modding! Unfortunately, modded game servers are not known enough. If you want to see one out of millions of examples of modded game servers, watch [this video](https://www.youtube.com/watch?v=mW4EhWVaxVw) of an old Counter-Strike: Source Zombie Escape server. The map (Lord Of The Rings), game mode (Zombie Escape), models (Zombies), and more were all made by **the community** (for *free*!). The game itself was made by [Valve/Steam](http://valvesoftware.com/).
+
+Once done, this will **easily** positively change the direction of gaming! Instead of paying money for games where companies couldn't care less about their community or the game itself, we will have multiple, fully open-source and moddable games (including this one) with communities creating custom content to keep the community and game alive!
+
+## F.A.Q.
+### What Is A Mod?
+Mod, in our case, stands for *modification*. However, the definition of mod is often mixed leading to confusion. The most popular definition is a third-party modification to a video game from the community. Usually for free, but platforms do support paid mods.
+
+What's even more confusing is technically many games are "mods" because they use existing game engines such as Unity and Unreal Engine (they're essentially just modding said engine). 
+
+## Primary Contributors
+* [Christian Deacon](https://github.com/)
