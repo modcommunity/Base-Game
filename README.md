@@ -2,6 +2,8 @@ This is our first **fully open-source** game that will display the power of open
 
 This game will act as a base for many mods, game modes, and more. This is the reason the game doesn't have any particular name. However, if anything, it's going to be a true "sandbox" game.
 
+Additionally, we want a fully modular and universal system where each piece of the game (such as the modding tools below), may be used in any other game using Godot Engine (or other supported engines in the future).
+
 ## Road Map
 *To Be Continued...*
 
@@ -49,7 +51,7 @@ Once done, this will **easily** positively change the direction of gaming! Inste
 ### What Is A Mod?
 Mod, in our case, stands for *modification*. However, the definition of mod is often mixed leading to confusion. The most popular definition is a third-party modification to a video game from the community. Usually for free, but platforms do support paid mods.
 
-What's even more confusing is technically many games are "mods" because they use existing game engines such as Unity and Unreal Engine (they're essentially just modding said engine). 
+What's even more confusing is technically many games are "mods" because they use existing game engines such as [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US) (they're essentially just modding the engine). 
 
 ## Primary Contributors
 * [Christian Deacon](https://github.com/)
