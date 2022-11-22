@@ -51,7 +51,13 @@ Once done, this will **easily** positively change the direction of gaming! Inste
 ### What Is A Mod?
 Mod, in our case, stands for *modification*. However, the definition of mod is often mixed leading to confusion. The most popular definition is a third-party modification to a video game from the community. Usually for free, but platforms do support paid mods.
 
-What's even more confusing is technically many games are "mods" because they use existing game engines such as [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US) (they're essentially just modding the engine). 
+What's even more confusing is technically many games are "mods" because they use existing game engines such as [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US) (they're technically modding the engine).
+
+### Is This Unique?
+We haven't found any projects that have fully accomplished the above. Community and modded game servers are still not popular enough in gaming and modding in general has been on a decline for ages on many games, especially multiplayer driven.
+
+### There's Another Project That Has The Same Goal
+If there are other projects with the same goals and missions as us, we'd love to collaborate as long as everybody is on the same page! Please feel free to join our Discord [server](https://discord.moddingcommunity.com/) or [email](mailto://modcommunity.business@gmail.com) us!
 
 ## Primary Contributors
 * [Christian Deacon](https://github.com/)
