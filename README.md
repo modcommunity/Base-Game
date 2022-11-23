@@ -28,7 +28,7 @@ The modding tools will essentially be a higher-level version of the [Godot Engin
 This game *and other games we help with* will be **truly cross-platform**! You will be able to play **online**, with anybody regardless of platform, using the following!
 
 * Web browsers - HTML 5 (Chrome, Firefox, Edge, etc.).
-* Desktop applicationa - Windows, Linux, MacOS, etc.
+* Desktop applications - Windows, Linux, MacOS, etc.
 * Mobile applications - Android, iOS, etc.
 * Consoles - Xbox, Playstation, etc.
 
