@@ -60,7 +60,7 @@ We haven't found any projects that have fully accomplished the above. Community 
 If there are other projects with the same goals and missions as us, we'd love to collaborate and support as long as everybody is on the same page! Please feel free to join our Discord [server](https://discord.moddingcommunity.com/) or [email](mailto://modcommunity.business@gmail.com) us!
 
 ### Will You Support More Engines In The Future?
-We'd really love to create a multi-engine game in the future! However, this is going to be very complex and going to take a lot of time. We still not sure if this is possible as well.
+We'd really love to create a multi-engine game in the future! However, this is going to be very complex and going to take a lot of time. We are still not sure if this is possible as well.
 
 ## Primary Contributors
 * [Christian Deacon](https://github.com/gamemann)
